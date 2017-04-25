@@ -1,6 +1,6 @@
 # npmdoc-inline-css
 
-#### api documentation for  [inline-css (v2.2.2)](https://github.com/jonkemp/inline-css#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-inline-css.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-inline-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-inline-css.svg)](https://travis-ci.org/npmdoc/node-npmdoc-inline-css)
+#### basic api documentation for  [inline-css (v2.2.2)](https://github.com/jonkemp/inline-css#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-inline-css.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-inline-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-inline-css.svg)](https://travis-ci.org/npmdoc/node-npmdoc-inline-css)
 
 #### Inline css into an html file.
 
